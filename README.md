@@ -95,4 +95,4 @@ app/
 
 ## Contact
 
-Gebrecherkos Abrha - [GitHub](https://github.com/GebrecherkosAbrha)
+[![GitHub](https://img.shields.io/badge/GitHub-Gebrecherkos_Abrha-blue?style=for-the-badge&logo=github)](https://github.com/GebrecherkosAbrha)
