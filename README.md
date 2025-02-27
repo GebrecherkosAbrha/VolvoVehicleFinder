@@ -85,6 +85,10 @@ app/
 │   ├── test/                  # Unit Tests
 │   └── androidTest/           # UI Tests
 
+## Developer
+
+[![GitHub](https://img.shields.io/badge/GitHub-Gebrecherkos_Abrha-blue?style=for-the-badge&logo=github)](https://github.com/GebrecherkosAbrha)
+
 ## Contributing
 
 1. Fork the repository
@@ -92,7 +96,3 @@ app/
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/addedFeature`)
 5. Open a Pull Request
-
-## Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-Gebrecherkos_Abrha-blue?style=for-the-badge&logo=github)](https://github.com/GebrecherkosAbrha)
