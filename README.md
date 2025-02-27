@@ -85,11 +85,12 @@ app/
 │   ├── test/                  # Unit Tests
 │   └── androidTest/           # UI Tests
 
-## Developer
-
-[![GitHub](https://img.shields.io/badge/GitHub-Gebrecherkos_Abrha-blue?style=for-the-badge&logo=github)](https://github.com/GebrecherkosAbrha)
 
 ## Contributing
+
+ 
+
+### Steps to Contribute
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/addedFeature`)
